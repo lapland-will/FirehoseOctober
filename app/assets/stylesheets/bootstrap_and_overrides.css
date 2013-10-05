@@ -5,3 +5,12 @@
   To use Glyphicons sprites instead of Font Awesome, replace with "require twitter-bootstrap-static/sprites"
   =require twitter-bootstrap-static/fontawesome
   */
+ .mashable-box {
+
+ 	-webkit-box-shadow: 3px 3px 12px -7px rgba(0,0,0,0.7) inset;
+-moz-box-shadow: 3px 3px 12px -7px rgba(0,0,0,0.7) inset;
+ }
+
+ .navbar-inverse .brand {
+ 	color: #66CCFF;
+ }
