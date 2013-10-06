@@ -1,0 +1,172 @@
+    1  /Volumes/Users/Ming ; exit;
+    2  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
+    3  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
+    4  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
+    5  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
+    6  ifconfig
+    7  ping 129.100.159.1
+    8   sudo/Applications/TextEdit.app/Contents/MacOS/TextEdit/etc/hosts
+    9  sudo/Applications/TextEdit.app/Contents/MacOS/TextEdit/etc/hosts
+   10   sudo/Applications/TextEdit.app/Contents/MacOS/TextEdit/etc/hosts
+   11  sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+   12  sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+   13  /Users/Lapland_Will/Downloads/Adobe\ Photoshop\ CS5\ Extended\ 12.0\ Final\ For\ MAC\ \[x.86\ \&\ x.64\]\[WwW.ZoNaTorrent.CoM\]\]/Keymaker/KeyMaker ; exit;
+   14  /Users/Lapland_Will/Downloads/Adobe\ Photoshop\ CS5\ Extended\ 12.0\ Final\ For\ MAC\ \[x.86\ \&\ x.64\]\[WwW.ZoNaTorrent.CoM\]\]/Keymaker\ 2/KeyMaker ; exit;
+   15  /Users/Lapland_Will/Downloads/photoshop/PSMACES/keygen/Keymaker/KeyMaker ; exit;
+   16  /Users/Lapland_Will/Downloads/photoshop/PSMACES/keygen/Keymaker/KeyMaker ; exit;
+   17  mkdir code
+   18  cd code
+   19  ls
+   20  Git$ mkdir code
+   21  ls
+   22  rails new testapp --database=postgresql
+   23  gem source -a http://rubygems.org/
+   24  rake db:create:all
+   25  testapp ls
+   26  sublime config/database.yml
+   27  pwd
+   28  cd testapp
+   29  sublime config/database.yml
+   30  rake db:create:all
+   31  sublime config/database.yml
+   32  rake db:create:all
+   33  rake db:create:all
+   34  rake db:create:all
+   35  rails server
+   36  ls
+   37  git init
+   38  git st 
+   39  git status
+   40  git add --all
+   41  git status
+   42  git commit -am "Initial Commit for the Rails Application"
+   43  git remote add origin git@github.com:lapland-will/FirehoseOctober.git
+   44  git push -u origin master
+   45  git status
+   46  heroku create firehose-will
+   47  git push heroku master
+   48  sublime
+   49  pwd
+   50  rails generate
+   51  rails generate controller staticpages
+   52  git add --all
+   53  git status
+   54  git commit -am "creating the splash page"
+   55  git push origin master
+   56  rails generate bootstrap:install static
+   57  bundle install
+   58  rails generate bootstrap:install static
+   59  rvm install ruby-2.0.0-p247
+   60  rvm reinstall ruby-2.0.0-p247
+   61  ruby -v
+   62  rvm gemset create firehose
+   63  rvm list
+   64  rvm use ruby-2.0.0-p247@firehose --default
+   65  gem install rails -v 3.2.14
+   66  rails -v
+   67  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+   68  open ~/.bash_profile
+   69  sublime
+   70  touch README.md
+   71  git init
+   72  git add README.md
+   73  git commit -m "first commit"
+   74  git remote add origin https://github.com/lapland-will/lapland-will.git
+   75  git push -u origin master
+   76  gem install heroku
+   77  vim .git/config 
+   78  vim README.md 
+   79  git commit -am "hello"
+   80  git push origin master
+   81  cd ~/.ssh
+   82  cd ~/.ssh
+   83  ls
+   84  Lists the files in your .ssh directory
+   85  ssh-keygen -t rsa -C "pihpwill@gmail.com"
+   86  pbcopy < ~/.ssh/id_rsa.pub
+   87  ssh -T git@github.com
+   88  Jinming999521
+   89  ssh -T git@github.com
+   90  createuser -s -r postgres
+   91  createuser -s -r postgres -h localhost
+   92  sudo -u postgres psql postgres
+   93  psql postgres
+   94  psql postgres -h localhost
+   95  Jinming999521
+   96  \curl -L https://get.rvm.io | bash -s stable
+   97  /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
+   98  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+   99  brew doctor
+  100  brew update
+  101  brew install git
+  102  psql --version
+  103  brew install postgresql
+  104   pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  105  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  106  vim ~/rails-notes
+  107  cat ~/rails-notes 
+  108  createuser -s -r postgres
+  109  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  110  pg_ctl -D /usr/local/var/postgres  start
+  111  initdb /usr/local/var/postgres
+  112  ps aux | grep postgres
+  113  initdb /usr/local/var/postgres
+  114  pg_ctl -D /usr/local/var/postgres -l logfile start
+  115   pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  116  cat  /usr/local/var/postgres/server.log
+  117  cat  /usr/local/var/postgres/server.log
+  118  pg_ctl -D /usr/local/var/postgres -l logfile start
+  119  git status
+  120  git add --all
+  121  git status
+  122  git add --all
+  123  cd testapp/
+  124  cd testapp
+  125  ls
+  126  cd code
+  127  cd testapp
+  128  cd code/testapp
+  129  pwd
+  130  git status
+  131  git add --all
+  132  git commit -am "added the topnav to splash page"
+  133  git push origin master
+  134  git status
+  135  git push heroku master
+  136  vim public/omg.html
+  137  git status
+  138  git add --all
+  139  git commit -am "Adding styles to the splash page"
+  140  git push origin master
+  141  git push heroku master
+  142  heroku open
+  143  heroku open
+  144  heroku help
+  145  pwd
+  146  heroku help
+  147  which heroku
+  148  cd
+  149  cd .rvm
+  150  cd gems
+  151  cd ruby-2.0.0-p247
+  152  cd bin
+  153  ls
+  154  cd code
+  155  cd
+  156  cd code
+  157  cd testapp
+  158  pwed
+  159  pwd
+  160  heroku help
+  161  gem install heroku
+  162  git status
+  163  rails generate
+  164  rails generate model pic 
+  165  pwd
+  166  ls
+  167  git status
+  168  rails -v
+  169  rvm gemset list
+  170  heroku run rake db:migrate
+  171  history
+  172  history > bash_history.20131006
