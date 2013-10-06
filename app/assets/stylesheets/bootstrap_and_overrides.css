@@ -14,3 +14,7 @@
  .navbar-inverse .brand {
  	color: #00FF99;
  }
+
+
+ .select .input[type="file"] {color: black;}
+ 
