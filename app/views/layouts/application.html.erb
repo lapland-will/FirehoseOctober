@@ -7,7 +7,8 @@
   <%= csrf_meta_tags %>
 
 </head>
-<body>
+<body class="<%= params[:controller]%>">
+
 <div class="navbar navbar-inverse">
   <div class="navbar-inner">
     <div class="container">
@@ -27,7 +28,7 @@
         <!-- .nav, .navbar-search, .navbar-form, etc -->
         <ul class="nav">
         	<li>
-        <%= link_to 'My App', '#' %>
+        <%= link_to 'Why do I care?', '#' %>
         	</li>
    		</ul>
       </div>

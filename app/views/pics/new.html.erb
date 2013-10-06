@@ -1,0 +1,9 @@
+
+<h1>SHOW ME WHAT YOU'VE GOT</h1>
+
+<%= simple_form_for @pic do |f| %>
+	<%= f.input :hour, :lable=>'HOUR' %>
+	<%= f.input :emotion, :lable=>'Mood'%>
+	<%= f.input :learned, :lable=>'LEARNED' %>
+	<%= submit_tag "Save" %>
+<% end %>
