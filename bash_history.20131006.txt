@@ -1,4 +1,4 @@
-    1  /Volumes/Users/Ming ; exit;
+     1  /Volumes/Users/Ming ; exit;
     2  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
     3  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
     4  /Users/Lapland_Will/Downloads/Photoshop\ CS\ 5\ keygen/keygen_osx ; exit;
@@ -167,6 +167,84 @@
   167  git status
   168  rails -v
   169  rvm gemset list
-  170  heroku run rake db:migrate
-  171  history
-  172  history > bash_history.20131006
+  170  find simple_form
+  171  bundle install
+  172  bundle|grep simp
+  173  git status
+  174  rake routes
+  175  rake routes
+  176  rake routes
+  177  git status
+  178  git add --all
+  179  git commit -am "Simple form and new action in cs controller"
+  180  git push origin master
+  181  git push heroku master
+  182  heroku logs
+  183  run rake db:migrate
+  184  pwd
+  185  run rake db:migrate
+  186  rails -v
+  187  rails generate model pic
+  188  rake db:migrate
+  189  git status
+  190  git add --all
+  191  git commit -am "Setting up the database"
+  192  rails generate controller pics
+  193  git status
+  194  git add --all
+  195  git commit -am "Added Pic  controller and all the connections"
+  196  git push origin master
+  197  rails c
+  198  rake db:migrate
+  199  rails s
+  200  rails s
+  201  git status
+  202  git add --all
+  203  git commit -"allowed users to submit images"
+  204  git push origin master
+  205  git push heroku master
+  206  heroku config:set AWS_ACCESS_KEY=
+  207  heroku config:set AWS_ACCESS_KEY=
+  208  heroku config:set AWS_ACCESS_KEY=AKIAI2NYQPWYGMWSB67A
+  209  heroku config:set AWS_ACCESS_KEY=AKIAI2NYQPWYGMWSB67A
+  210  heroku config:set AWS_SECRET_KEY=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
+  211  git status
+  212  git add --all
+  213  git commit -am"enabled users to upload images"
+  214  git push origin master
+  215  git push heroku master
+  216  heroku config:set AWS_BUCKET=Firehose-lapland
+  217  heroku run rake db:migrate
+  218  bundle install
+  219  git status
+  220  git add-- all
+  221  git commits -am"Allowed S3 to function to heroku"
+  222  git commits -am"Allowed S3 to function to heroku"
+  223  git commit -am"Allowed S3 to function to heroku"
+  224  git push origin master
+  225  git push heroku master
+  226  heroku run rake db:migrate
+  227  git status
+  228  git add --all
+  229  git commit -am"made some design changes"
+  230  git push origin master
+  231  git push heroku master
+  232  heroku ran rake db:migrate
+  233  heroku run rake db:migrate
+  234  heroku open
+  235  heroku run console
+  236  git status
+  237  git add --all
+  238  git commit -am"Just made sign up and sign in"
+  239  git push origin master
+  240  git push heroku master
+  241  heroku run rake db:migrate
+  242  git status
+  243  git add --all
+  244  git commit -am"some minor changes"
+  245  git push origin master
+  246  git push heroku master
+  247  heroku run rake db:migrate
+  248  heroku run console
+  249  run ruby
+  250  history
